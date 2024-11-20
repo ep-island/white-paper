@@ -1,4 +1,4 @@
-# White Paper:
+# White Paper
 
 ## Decentralized Betting on Binary Outcomes
 
