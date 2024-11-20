@@ -2,11 +2,7 @@
 
 ## Decentralized Betting on Binary Outcomes
 
-\
-\
-\
-
-Abstract
+# Abstract
 
 This white paper presents a decentralized betting platform enabling participants to wager on binary outcomes (e.g., Yes/No, True/False, or other dual-choice scenarios). Built on blockchain technology, the platform ensures transparency, fairness, and immutability while eliminating intermediaries. By leveraging smart contracts, the platform automates bet handling, outcome resolution, and reward distribution, creating a trustless ecosystem for binary prediction markets.
 
